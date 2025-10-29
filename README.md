@@ -4,7 +4,7 @@ A. Passo 1 - Ligação dos componentes.
 1. Faça a ligação dos computadores, switch e roteador, conforme a tabela disponibilizada.
 B. Passo 2 – Configuração das VLANs no Switch
 2. No Switch, em Config, selecione a opção VLAN Database.
-3. Adicione as três VLANs, conforme a figura.
+3. Adicione as três VLANs, conforme a figura. (10 Financeiro, 20 Vendas, 30 Diretoria)
 4. Ainda em config, selecione as interfaces e insira as VLANs conforme tabela baixo.
 Interface
 VLAN
@@ -14,7 +14,7 @@ FastEthernet0/6 a 0/10
 VLAN 20 - Vendas
 FastEthernet0/11 a 0/15
 VLAN 30 - Diretoria
-5. Já a interface GigabitEthernet0/1, vamos deixa-la com opção trunk e deixaremos marcado todas as VLANs que queremos deixar passar por essa interface. Essa ação deve ser realizada, pois queremos que as três VLANs acessem o roteador.
+5. Já a interface GigabitEthernet0/1, vamos deixa-la com opção trunk e deixaremos marcado todas as VLANs que queremos deixar passar por essa interface. Essa ação deve ser realizada, pois queremos que as três VLANs acessem o roteador. (X Financeiro, X Vendas, X 30 Diretoria)
 C. Passo 3 - Configuração do roteador
 1. Vá em CLI no roteador.
 2. Coloque o roteador no modo configuração digitando os seguintes comandos:
