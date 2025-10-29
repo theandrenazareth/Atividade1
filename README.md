@@ -1,13 +1,10 @@
 # Atividade1 / CISCO PACKET TRACER
-Configurando roteador CISCO (2911) com VLAN e DHCP para cada VLAN
-
-
 Configurar roteador CISCO (2911) com VLAN e DHCP para cada VLAN
 A. Passo 1 - Ligação dos componentes.
 1. Faça a ligação dos computadores, switch e roteador, conforme a tabela disponibilizada.
 B. Passo 2 – Configuração das VLANs no Switch
 2. No Switch, em Config, selecione a opção VLAN Database.
-3. Adicione as três VLANs, conforme a figura. (10 Financeiro, 20 Vendas, 30 Diretoria)
+3. Adicione as três VLANs, conforme a figura.
 4. Ainda em config, selecione as interfaces e insira as VLANs conforme tabela baixo.
 Interface
 VLAN
