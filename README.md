@@ -1,5 +1,5 @@
 # Atividade1 / CISCO PACKET TRACER
-Configurar roteador CISCO (2911) com VLAN e DHCP para cada VLAN
+Configurando roteador CISCO (2911) com VLAN e DHCP para cada VLAN
 
 
 Configurar roteador CISCO (2911) com VLAN e DHCP para cada VLAN
